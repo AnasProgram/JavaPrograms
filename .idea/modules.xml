@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPrograms.iml" filepath="$PROJECT_DIR$/.idea/JavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextEditor/TextEditor.iml" filepath="$PROJECT_DIR$/TextEditor/TextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encryptionprogram/encryptionprogram.iml" filepath="$PROJECT_DIR$/encryptionprogram/encryptionprogram.iml" />
+    </modules>
+  </component>
+</project>
