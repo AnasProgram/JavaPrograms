@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         // JPanel = a GUI component that functions as a container to hold other components
-        ImageIcon icon = new ImageIcon("thumbsup.png");
+        ImageIcon icon = new ImageIcon("044e283f1a87268fb583acfec79982c6.jpg");
 
         JLabel label = new JLabel();
         label.setText("Hi");
@@ -31,7 +31,7 @@ public class Main {
 
         JPanel greenPanel = new JPanel();
         greenPanel.setBackground(Color.green);
-        greenPanel.setBounds(0, 250, 500, 250);
+        greenPanel.setBounds(0, 250, 500, 500);
         greenPanel.setLayout(new BorderLayout());
 
         JFrame frame = new JFrame();
